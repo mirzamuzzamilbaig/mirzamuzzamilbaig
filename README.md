@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Emergent+Autonomous+Simulation+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Emergent+Autonomous+Simulation+Engines;Algorithmic+Sound+Synthesis+%26+Creative+Coding" alt="Typing SVG" />
   </p>
 </div>
 
@@ -22,11 +22,11 @@
 
 ### 🔬 Executive Profile & Research Focus
 
-I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and simulation architectures:
+I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and emergent simulation architectures:
 
 * 🛰️ **Physics-Informed Geospatial AI**: Fusing physical conservation principles with deep neural representations for predictive hydrological modeling and climate resilience.
 * 🧠 **Graph Representation Learning (GNNs)**: Developing novel self-supervised learning algorithms (`HydroGraphEM`) for topological river basins and complex spatial-temporal sensor networks.
-* 🏙️ **Complex Systems & Simulation**: Architecting high-performance cellular automata engines and autonomous agent simulations (*Micropolis 2026*).
+* 🏙️ **Complex Systems & Simulation**: Architecting high-performance cellular automata engines, autonomous agent simulations (*Micropolis 2026*), and audiovisual algorithmic visualizers (*AlgoRhythm*).
 
 ---
 
@@ -43,6 +43,16 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
       <p><b>Stack:</b> TypeScript &bull; Canvas 2D/WebGL &bull; Web Audio API &bull; Cellular Automata</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm: Sorting Synth Arena</a></h3>
+      <p align="center">
+        <a href="https://mirzamuzzamilbaig.github.io/algorhythm/"><img src="https://img.shields.io/badge/Play_Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Live Demo" /></a>
+      </p>
+      <p>An audiovisual battle arena pitting classic sorting algorithms head-to-head in real-time split-screen races. Fuses step-by-step generator pipelines with procedural <b>harmonic Web Audio synthesizer chimes</b> and live Big-O telemetry.</p>
+      <p><b>Stack:</b> TypeScript &bull; Web Audio API &bull; HTML5 Canvas &bull; Algorithmic Theory</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/MFPIT">MFPIT: Flood SciML Transformer</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Research-Physics--Informed_AI-success?style=for-the-badge" alt="SciML" />
@@ -50,8 +60,6 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
       <p>Official PyTorch implementation of <b>MFPIT</b> (Multimodal Flood Physics-Regularized Transformer) for spatiotemporal water occurrence mapping in the Indus Delta, enforcing soft hydrological mass-balance constraints.</p>
       <p><b>Stack:</b> Python &bull; PyTorch &bull; Scientific Machine Learning (SciML) &bull; Remote Sensing</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 <a href="https://github.com/mirzamuzzamilbaig/HydroGraphEM-A-Self-Supervised-Graph-Learning-Framework-">HydroGraphEM</a></h3>
       <p align="center">
@@ -60,13 +68,15 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
       <p>A novel <b>Self-Supervised Graph Learning Framework</b> designed for spatial topology representation learning across environmental and hydrological sensor networks.</p>
       <p><b>Stack:</b> Python &bull; PyTorch Geometric &bull; Graph Neural Networks (GNNs) &bull; Earth Observation</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛰️ <a href="https://github.com/mirzamuzzamilbaig/Physics-Anchored-Hybrid-Hydrological-Modeling">Physics-Anchored Hydrological AI</a></h3>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛰️ <a href="https://github.com/mirzamuzzamilbaig/Physics-Anchored-Hybrid-Hydrological-Modeling">Physics-Anchored Hybrid Hydrological Modeling</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Research-Water_Balance_Hybrid-purple?style=for-the-badge" alt="Water Balance" />
       </p>
-      <p>A hybrid modeling framework fusing physical hydrology principles with multi-decadal satellite Earth observation (CHIRPS, ERA5, SMAP, GRACE) for monthly flood risk forecasting.</p>
-      <p><b>Stack:</b> Python &bull; Google Earth Engine (GEE) &bull; Scientific Computing &bull; Hydrology</p>
+      <p align="center">A hybrid modeling framework fusing physical hydrology principles with multi-decadal satellite Earth observation (CHIRPS, ERA5, SMAP, GRACE) for monthly flood risk forecasting.</p>
+      <p align="center"><b>Stack:</b> Python &bull; Google Earth Engine (GEE) &bull; Scientific Computing &bull; Hydrology</p>
     </td>
   </tr>
 </table>
