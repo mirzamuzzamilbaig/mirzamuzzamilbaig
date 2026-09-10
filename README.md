@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">Mirza Muhammad Muzzamil</h1>
+  <img src="assets/avatar.jpg" alt="Mirza Muhammad Muzzamil" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.4); object-fit: cover;" />
+  <h1 align="center" style="margin-top: 12px;">Mirza Muhammad Muzzamil</h1>
   <p align="center">
     <strong>Geospatial Data Scientist &bull; Computational Researcher &bull; Complex Systems Engineer</strong><br>
     <em>National Center of Big Data & Cloud Computing (NCBC) &bull; NED University of Engineering & Technology</em>
