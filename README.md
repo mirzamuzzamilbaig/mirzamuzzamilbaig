@@ -34,9 +34,9 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏙️ <a href="https://github.com/mirzamuzzamil/micropolis-2026">Micropolis 2026</a></h3>
+      <h3 align="center">🏙️ <a href="https://github.com/mirzamuzzamilbaig/micropolis-2026">Micropolis 2026</a></h3>
       <p align="center">
-        <a href="https://mirzamuzzamil.github.io/micropolis-2026/"><img src="https://img.shields.io/badge/Play_Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Live Demo" /></a>
+        <a href="https://mirzamuzzamilbaig.github.io/micropolis-2026/"><img src="https://img.shields.io/badge/Play_Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Live Demo" /></a>
       </p>
       <p>The legendary 1989 <i>SimCity</i> (Micropolis) cellular automata engine reimagined for 2026 with <b>emergent autonomous AI citizen agents</b>, natural language mayoral decrees, procedural Web Audio soundscapes, and high-performance canvas rendering.</p>
       <p><b>Stack:</b> TypeScript &bull; Canvas 2D/WebGL &bull; Web Audio API &bull; Cellular Automata</p>
