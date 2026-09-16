@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Emergent+Autonomous+Simulation+Engines;Algorithmic+Sound+Synthesis+%26+Creative+Coding" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Particle-Based+Hydraulic+Erosion+Simulators;Emergent+Autonomous+Simulation+Engines" alt="Typing SVG" />
   </p>
 </div>
 
@@ -22,11 +22,11 @@
 
 ### 🔬 Executive Profile & Research Focus
 
-I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and emergent simulation architectures:
+I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and physical geomorphological simulation:
 
-* 🛰️ **Physics-Informed Geospatial AI**: Fusing physical conservation principles with deep neural representations for predictive hydrological modeling and climate resilience.
-* 🧠 **Graph Representation Learning (GNNs)**: Developing novel self-supervised learning algorithms (`HydroGraphEM`) for topological river basins and complex spatial-temporal sensor networks.
-* 🏙️ **Complex Systems & Simulation**: Architecting high-performance cellular automata engines, autonomous agent simulations (*Micropolis 2026*), and audiovisual algorithmic visualizers (*AlgoRhythm*).
+* 🛰️ **Physics-Informed Geospatial AI**: Fusing physical mass-balance conservation with deep neural architectures for predictive flood inundation and climate resilience.
+* 🧠 **Graph Representation Learning (GNNs)**: Developing novel self-supervised graph learning frameworks (`HydroGraphEM`) for topological river basins and spatial-temporal environmental sensor networks.
+* 🌊 **Geomorphology & Simulation Systems**: Architecting real-time particle-based hydraulic erosion engines (*HydroTerra*), cellular automata engines (*Micropolis 2026*), and audiovisual algorithm visualizers (*AlgoRhythm*).
 
 ---
 
@@ -34,49 +34,55 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/hydroterra">HydroTerra</a></h3>
+      <p align="center">
+        <a href="https://mirzamuzzamilbaig.github.io/hydroterra/"><img src="https://img.shields.io/badge/Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
+      </p>
+      <p>Particle-based <b>hydraulic erosion simulator & river topology extractor</b>. Simulates droplets carrying sediment to carve river valleys and extracts topological stream networks with <b>Strahler stream orders</b>.</p>
+      <p><b>Stack:</b> TypeScript &bull; Canvas 2D/3D &bull; Geomorphology &bull; Graph Theory</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm</a></h3>
+      <p align="center">
+        <a href="https://mirzamuzzamilbaig.github.io/algorhythm/"><img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
+      </p>
+      <p>Audiovisual <b>sorting algorithm battle arena</b>. Pits algorithms head-to-head in real-time split-screen races synthesized with procedural <b>harmonic Web Audio chimes</b> and live Big-O telemetry.</p>
+      <p><b>Stack:</b> TypeScript &bull; Web Audio API &bull; HTML5 Canvas &bull; Algorithmic Theory</p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🏙️ <a href="https://github.com/mirzamuzzamilbaig/micropolis-2026">Micropolis 2026</a></h3>
       <p align="center">
-        <a href="https://mirzamuzzamilbaig.github.io/micropolis-2026/"><img src="https://img.shields.io/badge/Play_Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Live Demo" /></a>
+        <a href="https://mirzamuzzamilbaig.github.io/micropolis-2026/"><img src="https://img.shields.io/badge/Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
       </p>
-      <p>The legendary 1989 <i>SimCity</i> (Micropolis) cellular automata engine reimagined for 2026 with <b>emergent autonomous AI citizen agents</b>, natural language mayoral decrees, procedural Web Audio soundscapes, and high-performance canvas rendering.</p>
-      <p><b>Stack:</b> TypeScript &bull; Canvas 2D/WebGL &bull; Web Audio API &bull; Cellular Automata</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm: Sorting Synth Arena</a></h3>
-      <p align="center">
-        <a href="https://mirzamuzzamilbaig.github.io/algorhythm/"><img src="https://img.shields.io/badge/Play_Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Live Demo" /></a>
-      </p>
-      <p>An audiovisual battle arena pitting classic sorting algorithms head-to-head in real-time split-screen races. Fuses step-by-step generator pipelines with procedural <b>harmonic Web Audio synthesizer chimes</b> and live Big-O telemetry.</p>
-      <p><b>Stack:</b> TypeScript &bull; Web Audio API &bull; HTML5 Canvas &bull; Algorithmic Theory</p>
+      <p>The legendary 1989 <i>SimCity</i> cellular automata engine reimagined for 2026 with <b>emergent autonomous citizen AI agents</b>, mayoral decrees, Web Audio soundscapes, and canvas rendering.</p>
+      <p><b>Stack:</b> TypeScript &bull; Canvas 2D/WebGL &bull; Web Audio &bull; Cellular Automata</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/MFPIT">MFPIT: Flood SciML Transformer</a></h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/MFPIT">MFPIT: SciML Transformer</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Research-Physics--Informed_AI-success?style=for-the-badge" alt="SciML" />
       </p>
-      <p>Official PyTorch implementation of <b>MFPIT</b> (Multimodal Flood Physics-Regularized Transformer) for spatiotemporal water occurrence mapping in the Indus Delta, enforcing soft hydrological mass-balance constraints.</p>
-      <p><b>Stack:</b> Python &bull; PyTorch &bull; Scientific Machine Learning (SciML) &bull; Remote Sensing</p>
+      <p>Official PyTorch implementation of <b>MFPIT</b> (Multimodal Flood Physics-Regularized Transformer) for spatiotemporal water occurrence mapping in the Indus Delta.</p>
+      <p><b>Stack:</b> PyTorch &bull; SciML &bull; Remote Sensing &bull; Transformers</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🧠 <a href="https://github.com/mirzamuzzamilbaig/HydroGraphEM-A-Self-Supervised-Graph-Learning-Framework-">HydroGraphEM</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Paper-Graph_Representation_Learning-blue?style=for-the-badge" alt="GNN" />
+        <img src="https://img.shields.io/badge/Paper-Graph_Representation-blue?style=for-the-badge" alt="GNN" />
       </p>
-      <p>A novel <b>Self-Supervised Graph Learning Framework</b> designed for spatial topology representation learning across environmental and hydrological sensor networks.</p>
-      <p><b>Stack:</b> Python &bull; PyTorch Geometric &bull; Graph Neural Networks (GNNs) &bull; Earth Observation</p>
+      <p>A novel <b>Self-Supervised Graph Learning Framework</b> for spatial topology representation learning across hydrological and environmental sensor networks.</p>
+      <p><b>Stack:</b> PyTorch Geometric &bull; GNNs &bull; Earth Observation</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🛰️ <a href="https://github.com/mirzamuzzamilbaig/Physics-Anchored-Hybrid-Hydrological-Modeling">Physics-Anchored Hybrid Hydrological Modeling</a></h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🛰️ <a href="https://github.com/mirzamuzzamilbaig/Physics-Anchored-Hybrid-Hydrological-Modeling">Hydrological AI Modeling</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Research-Water_Balance_Hybrid-purple?style=for-the-badge" alt="Water Balance" />
+        <img src="https://img.shields.io/badge/Research-Water_Balance-purple?style=for-the-badge" alt="Water Balance" />
       </p>
-      <p align="center">A hybrid modeling framework fusing physical hydrology principles with multi-decadal satellite Earth observation (CHIRPS, ERA5, SMAP, GRACE) for monthly flood risk forecasting.</p>
-      <p align="center"><b>Stack:</b> Python &bull; Google Earth Engine (GEE) &bull; Scientific Computing &bull; Hydrology</p>
+      <p>Hybrid modeling framework fusing physical hydrology conservation with satellite Earth observation (CHIRPS, ERA5, SMAP, GRACE) for flood forecasting.</p>
+      <p><b>Stack:</b> Google Earth Engine (GEE) &bull; Scientific Python &bull; Hydrology</p>
     </td>
   </tr>
 </table>
