@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Synthetic+Biology+%26+Emergent+Artificial+Life;Particle-Based+Hydraulic+Erosion+Simulators" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Synthetic+Biology+%26+Emergent+Artificial+Life;Particle-Based+Hydraulic+Erosion+Simulators;Lake+Ecosystem+Digital+Twin+%26+Limnology" alt="Typing SVG" />
   </p>
 </div>
 
@@ -52,6 +52,14 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💧 <a href="https://github.com/mirzamuzzamilbaig/limnotwin">LimnoTwin: Lake Digital Twin</a></h3>
+      <p align="center">
+        <a href="https://mirzamuzzamilbaig.github.io/limnotwin/"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
+      </p>
+      <p>Interactive <b>Lake Ecosystem Digital Twin & Hydrodynamic GIS Simulator</b>. Couples 3D bathymetric hypsography, 2D contaminant advection-diffusion, moored IoT sensor buoy telemetry, and dam spillway weir hydraulics.</p>
+      <p><b>Stack:</b> TypeScript &bull; Canvas 3D/GIS &bull; Hydrodynamics &bull; Web Audio API</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm: Sorting Synth</a></h3>
       <p align="center">
