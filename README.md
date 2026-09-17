@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Particle-Based+Hydraulic+Erosion+Simulators;Emergent+Autonomous+Simulation+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Geospatial+Data+Science+%26+Earth+Observation;Physics-Informed+AI+%26+Hydrological+Modeling;Self-Supervised+Graph+Learning+%26+Neural+Networks;Synthetic+Biology+%26+Emergent+Artificial+Life;Particle-Based+Hydraulic+Erosion+Simulators" alt="Typing SVG" />
   </p>
 </div>
 
@@ -22,36 +22,46 @@
 
 ### 🔬 Executive Profile & Research Focus
 
-I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and physical geomorphological simulation:
+I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC NEDUET**, working at the frontier of computational earth observation, geometric deep learning, and emergent synthetic life simulations:
 
-* 🛰️ **Physics-Informed Geospatial AI**: Fusing physical mass-balance conservation with deep neural architectures for predictive flood inundation and climate resilience.
-* 🧠 **Graph Representation Learning (GNNs)**: Developing novel self-supervised graph learning frameworks (`HydroGraphEM`) for topological river basins and spatial-temporal environmental sensor networks.
-* 🌊 **Geomorphology & Simulation Systems**: Architecting real-time particle-based hydraulic erosion engines (*HydroTerra*), cellular automata engines (*Micropolis 2026*), and audiovisual algorithm visualizers (*AlgoRhythm*).
+* 🛰️ **Physics-Informed Geospatial AI**: Fusing physical conservation principles with deep neural representations for predictive hydrological modeling and climate resilience.
+* 🧠 **Graph Representation Learning (GNNs)**: Developing novel self-supervised graph learning frameworks (`HydroGraphEM`) for topological river basins and complex spatial-temporal sensor networks.
+* 🧬 **Artificial Life & Emergent Systems**: Architecting synthetic life laboratories (*ProtoLife*), geomorphic erosion engines (*HydroTerra*), cellular automata engines (*Micropolis 2026*), and audiovisual algorithm visualizers (*AlgoRhythm*).
 
 ---
 
-### 🌟 Featured Flagship Projects
+### 🌟 Featured Flagship Interactive Applications
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/hydroterra">HydroTerra</a></h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 <a href="https://github.com/mirzamuzzamilbaig/protolife">ProtoLife: Artificial Life Lab</a></h3>
+      <p align="center">
+        <a href="https://mirzamuzzamilbaig.github.io/protolife/"><img src="https://img.shields.io/badge/Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
+      </p>
+      <p>Synthetic biology sandbox simulating <b>non-equilibrium particle forces</b>, metabolic energy lifecycles (mitosis/starvation), <b>interactive genetic force matrix editing</b>, and real-time colony cluster detection.</p>
+      <p><b>Stack:</b> TypeScript &bull; Spatial Hash Grid &bull; Artificial Life &bull; Web Audio API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/hydroterra">HydroTerra: Erosion Simulator</a></h3>
       <p align="center">
         <a href="https://mirzamuzzamilbaig.github.io/hydroterra/"><img src="https://img.shields.io/badge/Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
       </p>
       <p>Particle-based <b>hydraulic erosion simulator & river topology extractor</b>. Simulates droplets carrying sediment to carve river valleys and extracts topological stream networks with <b>Strahler stream orders</b>.</p>
       <p><b>Stack:</b> TypeScript &bull; Canvas 2D/3D &bull; Geomorphology &bull; Graph Theory</p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm</a></h3>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/mirzamuzzamilbaig/algorhythm">AlgoRhythm: Sorting Synth</a></h3>
       <p align="center">
         <a href="https://mirzamuzzamilbaig.github.io/algorhythm/"><img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
       </p>
       <p>Audiovisual <b>sorting algorithm battle arena</b>. Pits algorithms head-to-head in real-time split-screen races synthesized with procedural <b>harmonic Web Audio chimes</b> and live Big-O telemetry.</p>
       <p><b>Stack:</b> TypeScript &bull; Web Audio API &bull; HTML5 Canvas &bull; Algorithmic Theory</p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏙️ <a href="https://github.com/mirzamuzzamilbaig/micropolis-2026">Micropolis 2026</a></h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ <a href="https://github.com/mirzamuzzamilbaig/micropolis-2026">Micropolis 2026: AI SimCity</a></h3>
       <p align="center">
         <a href="https://mirzamuzzamilbaig.github.io/micropolis-2026/"><img src="https://img.shields.io/badge/Live_Demo-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
       </p>
@@ -59,6 +69,13 @@ I am a **Geospatial Data Scientist and Machine Learning Researcher** at **NCBC N
       <p><b>Stack:</b> TypeScript &bull; Canvas 2D/WebGL &bull; Web Audio &bull; Cellular Automata</p>
     </td>
   </tr>
+</table>
+
+---
+
+### 📚 Academic Publications & Deep Learning Research
+
+<table>
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">🌊 <a href="https://github.com/mirzamuzzamilbaig/MFPIT">MFPIT: SciML Transformer</a></h3>
